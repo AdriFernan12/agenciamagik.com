@@ -607,6 +607,7 @@ dl, ol, ul {
 	display: inline-block;
 	position: relative;
 	text-align: left;
+	
 }
 
 .cd-words-wrapper b {
@@ -615,10 +616,13 @@ dl, ol, ul {
 	white-space: nowrap;
 	left: 0;
 	top: 0;
+	padding-top: 80px;
+
 }
 
 .cd-words-wrapper b.is-visible {
 	position: relative;
+	
 }
 
 .cd-headline.clip span {
@@ -665,7 +669,7 @@ dl, ol, ul {
 	line-height: 100px;
 }
 .social-media{
-    border-radius: 34px;
+    border-radius: 35px;
 }
 .social-media a {
     display: inline-block;
