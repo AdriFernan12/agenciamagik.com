@@ -37,6 +37,7 @@ body {
     background-color: #ecebeb !important;
 }
 
+
 .bg-white {
     background-color: #ffffff !important;
 }
@@ -548,7 +549,7 @@ dl, ol, ul {
 	position: relative;
 	color: #fff;
 	text-align: center;
-	background: url(../img/home-bg.jpg);
+	background: url(../img/main-background-magik.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
